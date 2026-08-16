@@ -101,11 +101,7 @@
   <img src="https://streak-stats.demolab.com?user=rajibpradhan45&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>---
 
-🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajibpradhan45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-</p>---
 
 🐍 Contribution Snake
 
