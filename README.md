@@ -109,22 +109,9 @@
 
 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajibpradhan45/rajibpradhan45/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-</p><p align="center">
-  <i>🐍 Watching my contributions come alive...</i>
-</p>---
+<img src="https://raw.githubusercontent.com/rajibpradhan45/rajibpradhan45/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-🚀 What I Love Building
 
-Artificial Intelligence      ████████████████████  100%
-Machine Learning             ███████████████████░   95%
-Python Development           ███████████████████░   95%
-Computer Vision              ██████████████████░░   90%
-Problem Solving              ███████████████████░   95%
-Web Development              ███████████████░░░░░   75%
-
----
 
 💻 Developer Philosophy
 
