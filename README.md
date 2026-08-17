@@ -105,7 +105,7 @@
 
 🐍 Contribution Snake
 
-<img src="https://cdn.jsdelivr.net/gh/rajibpradhan45/rajibpradhan45@output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Dark" />
+<img src="https://cdn.jsdelivr.net/gh/rajibpradhan45/rajibpradhan45@output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 
 💻 Developer Philosophy
